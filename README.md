@@ -1,6 +1,14 @@
 # User-Directory
-Overview
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
+
+
+[Deployed Website] https://strawberry-cupcake-42515.herokuapp.com/
+
+![Photo of finished product](public/assets/images/org.png)
+* Orginal loading of webpgae
+![Photo of finished product](public/assets/images/a-z.png)
+* Names starting at A
+![Photo of finished product](public/assets/images/z-a.png)
+* Names starting at Z
 
 User Story
 
