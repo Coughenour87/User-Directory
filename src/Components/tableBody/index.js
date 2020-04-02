@@ -3,7 +3,7 @@ import React from 'react'
 export default (props)=>{
     const activeList = props.list
     return(        
-        <> 
+        <>   
         {activeList && activeList.map(user=>(
 
              <tr key={user.login.uuid}>
